@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+            color: #666;
+        }
+        ol, ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        li {
+            font-weight: bold;
+        }
